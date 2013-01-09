@@ -1,0 +1,6 @@
+在根目录下面css、js是所有的juqery ui功能的总和。css文件夹下面有用到的所有图片资源，js文件夹下面有jquery的最新版本。development-bundle文件夹下面将各个功能分开了。
+
+demos文件夹下面是使用范例，docs文件夹下面放的是使用说明文档。external是扩展(未知)。
+
+themes文件夹下面是存放的样式，ui下面是js。其中themes文件夹和ui文件夹下面都有两个目录。
+文件跟目录里面的js是未压缩的，miniified下面的js是压缩过的，i18n放的是相关的本地化js，可以根据地区选择。
